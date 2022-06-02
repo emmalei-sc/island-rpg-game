@@ -12,7 +12,7 @@
   It is coded entirely in Java and uses the Java Graphics library.* </p>
 
 ## Compiling & Running
-Open the folder in Terminal. Compile andd run by executing these commands:
+Open the folder in Terminal. Compile and run by executing these commands:
 ```
 javac *.java
 java Runner
