@@ -25,3 +25,4 @@ A `Runner.jar` file will be created. **Double-click** or run through Terminal wi
 ```
 java -jar Runner.jar
 ```
+(The original JAR file was unfortunately too large to upload to GitHub.)
