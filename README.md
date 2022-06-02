@@ -5,8 +5,8 @@
  **<p align="center"> You are a mushroom who has crash-landed onto a near-deserted island.  
  With the help of the resident hermit, use the island's resources to find your way back home!** </p>  
  
-<p align="center"> <img src="http://g.recordit.co/radkGD4eJF.gif" width="300"> <img src="http://g.recordit.co/w1DzTyxLst.gif" width="300"> </p>
-<p align="center"> <img src="http://g.recordit.co/3ppfMhsS0n.gif" width="300"> <img src="http://g.recordit.co/t4bFPEMftB.gif" width="300"> </p>
+<p align="center"> <img src="http://g.recordit.co/radkGD4eJF.gif" width="350"> <img src="http://g.recordit.co/w1DzTyxLst.gif" width="350">  
+ <img src="http://g.recordit.co/3ppfMhsS0n.gif" width="350"> <img src="http://g.recordit.co/t4bFPEMftB.gif" width="350"> </p>
 
 *<p align="center"> This project was created in spring 2020.   
   It is coded entirely in Java and uses the JPanel and Graphics libraries.* </p>
