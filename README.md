@@ -18,6 +18,9 @@
 - Quests & storyline
 - Randomly placed trees, grass, and collectibles for a new experience every time  
 
+## Notes, 2022
+Code will likely be revamped in the future (for quality, efficiency, etc.)! This was one of my first coding projects, and I've grown a lot as a programmer since then!
+
 ## Compiling & Running
 Open the folder in Terminal. Compile and run by executing these commands:
 ```
