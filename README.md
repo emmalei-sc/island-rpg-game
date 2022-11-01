@@ -1,6 +1,6 @@
 # Stuck - An Island RPG Game
 
-*Stuck* is a mini-RPG game I created in my senior year of high school, as a final project:  
+*Stuck* is a mini-RPG game I created in my senior year of high school:  
 
  **<p align="center"> You are a mushroom who has crash-landed onto a near-deserted island.  
  With the help of the resident hermit, use the island's resources to find your way back home!** </p>  
